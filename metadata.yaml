@@ -1,0 +1,26 @@
+_repo: Vita-mondana_61563
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Memini
+    alias: Benaglio Castellani-Fantoni, Ines
+    birthdate: 1849
+    deathdate: 1897
+    gutenberg_agent_id: '7068'
+    url: http://www.gutenberg.org/2009/agents/7068
+    wikipedia: https://it.wikipedia.org/wiki/Ines_Castellani_Fantoni_Benaglio
+description: ''
+gutenberg_issued: '2020-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61563'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: Vita mondana
+url: http://www.gutenberg.org/ebooks/61563
